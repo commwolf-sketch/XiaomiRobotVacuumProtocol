@@ -28,7 +28,7 @@ Expect a response like `{"result":[101,102,104,105],"id":9416}`
 | roborock.vacuum.p5    | Roborock P5           |               |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |         |
 | roborock.vacuum.s4    | Roborock S4           |               |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |         |
 | roborock.vacuum.s5    | Roborock S5           | 3.5.8_002034  |   | X | X | X | X |   |   |   |   |   | X | X | X | X | X | X | X | X | X |   |   | X | X |   | X |   |   |   |   |   |         |
-| roborock.vacuum.s5e   | Roborock S5 Max       |               |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |         |
+| roborock.vacuum.s5e   | Roborock S5 Max       | 3.5.8_1516    |   |   |   |   |   |   |   |   |   |   | X | X | X | X | X | X | X | X | X |   | X | X | X | X | X |   |   |   |   |   |         |
 | roborock.vacuum.s6    | Roborock S6           |               |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |         |
 | roborock.vacuum.t4    | Roborock T4           |               |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |         |
 | roborock.vacuum.t6    | Roborock T6           |               |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |         |
